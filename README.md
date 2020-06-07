@@ -3,7 +3,7 @@ Python script (back-end) created by **Dimitrios Panourgias**
 <br/> June 2020
 
 :children_crossing: *This script is not maintained, so, in time, certain operations or even the entire script may not be functional.* 
-<br/> :space_invader: *Also the script is not tested to handle all cases and exceptions (but if you follow the inpput guidelines it shall work fine.*
+<br/> :space_invader: *Also the script is not tested to handle all cases and exceptions (but if you follow the inpput guidelines it shall work fine).*
 
 <br/> **Scope of the script:**
 <br/> The script receives as input a list of queries and inputs each query in Google Search bar to finally retrieve the autocomplete suggestions.

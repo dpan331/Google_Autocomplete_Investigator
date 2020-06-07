@@ -9,17 +9,17 @@ Python script (back-end) created by **Dimitrios Panourgias**
 
 ## Python script (back-end) 
 The script reads a csv (seedQueryList.csv) with queries. 
-<img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/seedQueryList.JPG" height="50" width="100">
+<br/> <img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/seedQueryList.JPG" height="50" width="100">
 
 Once ran, the user must input the type of search the script will perform:
 <br/> **simple**: the script inputs each query alone in the Google Search bar.
-<img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/simpleSearchResults.JPG" height="300" width="150">
+<br/> <img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/simpleSearchResults.JPG" height="300" width="150">
 
 <br/> **extensive**: the script inputs each query along with each letter of the alphabet of your choice. If the user chooses the extensive type of search then she/he gets asked to choose also a language (gr/en/de).
-<img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/extensiveSearchResults.JPG" height="400" width="200">
+<br/> <img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/extensiveSearchResults.JPG" height="400" width="200">
 
 Finally, the script exports the aggregated data in a csv (resultsAutocomplete.csv).
 
-<img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/it-crowd-moss-fire-email.JPG" height="320" width="400">
+<br/> <img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/it-crowd-moss-fire-email.JPG" height="320" width="400">
 
 

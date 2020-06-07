@@ -24,7 +24,7 @@ Once ran, the user must input the type of search the script will perform:
 Finally, the script exports the aggregated data in a csv (resultsAutocomplete.csv).
 
 ## Further actions
-Apart from just gazing the autocomplete results to get ideas for your keywords, you can download all the keywords you have already set up in your Google Ads ad account and merging to identify gaps. 
+Apart from just gazing the autocomplete results to get ideas for your keywords, you can download all the keywords you have already set up in your Google Ads ad account and merge/join them with the autocomplete search results to identify gaps. 
 
 <br/> The same can be performed for Google Search Console queries that you rank for and can retrieve from the relevant report of the UI (User Interface).
 

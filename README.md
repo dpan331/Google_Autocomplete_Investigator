@@ -5,6 +5,7 @@ Python script (back-end) created by **Dimitrios Panourgias**
 :children_crossing: *This script is not maintained, so, in time, certain operations or even the entire script may not be functional.* 
 <br/> :space_invader: *Also the script is not tested to handle all cases and exceptions (but if you follow the inpput guidelines it shall work fine).*
 
+
 <br/> **Scope of the script:**
 <br/> The script receives as input a list of queries and inputs each query in Google Search bar to finally retrieve the autocomplete suggestions.
 
@@ -31,6 +32,8 @@ Apart from just gazing the autocomplete results to get ideas for your keywords, 
 <br/> To retrieve metrics for the autocomplete search results, simply throw them in Google Ads' keyword planner (at least until the next keyword research tool is complete and uploaded in this repository :sunglasses:).
 
 <br/> You can also modify the script to go even deeper in your investigation by using the retrieved (first) autocomplete search results as seed queries to be refed to the script. However, keep in mind that the deeper you go, the more irrelevant the results will be.
+
+<br/> :children_crossing: If you input too many queries, Google may block you due to too many requests in too short time. To overcome this you can simple add a time.sleep function to run at random time intervals or/and use rotating proxies, user agents, etc.
 
 <br/> <img src="https://github.com/dpan331/Keyword_research_tools/blob/master/Google_Autocomplete_Investigator/goog_autoc_img/it-crowd-moss-fire-email.JPG" height="320" width="400">
 
